@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a visually engaging SaaS platform with phased screen designs and smooth animations, tailored for fashion brands seeking a stylish online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
